@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abdul Rehman 👋
 
-<!--
-**mabdulrehmankhalid/mabdulrehmankhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+📍 Karachi, Pakistan  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- C / C++
+- Data Structures & Algorithms
+- Embedded Systems (ESP32)
+- VHDL & Digital Design
+- Oracle Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Student Information System (Oracle 11g)
+- Single Cycle MIPS Processor (VHDL)
+- ESP32 IoT Automation System
+- C/C++ Problem Solving Projects
+
+## 📫 Contact
+Email: mabdulrehmankhalid410@gmail.com 
+LinkedIn: [your link](https://www.linkedin.com/in/muhammad-abdul-rehmankh/)
