@@ -4,7 +4,7 @@
 📍 Rahim Yar Khan, Pakistan  
 
 ## 💻 Skills
-- C / C++
+- C / C++ / Python
 - Data Structures & Algorithms
 - Embedded Systems (ESP32)
 - VHDL & Digital Design
