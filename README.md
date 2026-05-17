@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Abdul Rehman 👋
 
 🎓 Computer Engineering Student  
-📍 Karachi, Pakistan  
+📍 Rahim Yar Khan, Pakistan  
 
 ## 💻 Skills
 - C / C++
@@ -18,4 +18,4 @@
 
 ## 📫 Contact
 Email: mabdulrehmankhalid410@gmail.com 
-LinkedIn: [your link](https://www.linkedin.com/in/muhammad-abdul-rehmankh/)
+LinkedIn: [Muhammad Abdul Rehman](https://www.linkedin.com/in/muhammad-abdul-rehmankh/)
